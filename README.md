@@ -466,6 +466,6 @@ function random(min, max) {
 ```
 
 
-## 참고
+## 참고자료
 [패스트캠퍼스 스타벅스 예제](https://github.com/ParkYoungWoong/starbucks-vanilla-app)
 
